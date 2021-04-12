@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
-### 🔭 I’m currently working on ...C++,C
-### 🌱 I’m currently learning ... Javascript,Python
+### 🔭 I’m currently working on Web Development and Android Development
+### 🌱 I’m currently learning  Javascript,Python and JSON
 <!-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ... Annanya Mentor
 - 💬 Ask me about ...anything except confindential thing
