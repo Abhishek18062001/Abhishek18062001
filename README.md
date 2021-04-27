@@ -2,8 +2,8 @@
 
 
 ### 🔭 I’m currently working on Web Development and Android Development
-### 🌱 I’m currently learning  Javascript,Python and JSON  ![animated-gifs-corporate-training](https://user-images.githubusercontent.com/56883498/114426325-94b38900-9bd7-11eb-821e-3a8081a923cb.gif)
-
+### 🌱 I’m currently learning  Javascript,Python and JSON  
+![android-studio](https://user-images.githubusercontent.com/56883498/116289804-6ecddd00-a7b0-11eb-9bda-5efc666a1497.gif)
 
 
 <!-- 👯 I’m looking to collaborate on 
