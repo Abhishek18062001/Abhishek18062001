@@ -3,7 +3,8 @@
 
 ### 🔭 I’m currently working on Web Development and Android Development
 ### 🌱 I’m currently learning  Javascript,Python and JSON  
-![android-studio](https://user-images.githubusercontent.com/56883498/116289804-6ecddd00-a7b0-11eb-9bda-5efc666a1497.gif)
+![android](https://user-images.githubusercontent.com/56883498/116333851-dd7f5a80-a7f1-11eb-8f80-634199bb93dd.gif)
+
 
 
 <!-- 👯 I’m looking to collaborate on 
